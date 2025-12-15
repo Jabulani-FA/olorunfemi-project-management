@@ -29,6 +29,9 @@ const projectSchema = new mongoose.Schema({
     },
     stacks: {
         type: Array,
+    },
+    git_repo_name:{
+        type: String
     }
 },{timestamps: true})
 
