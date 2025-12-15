@@ -32,6 +32,9 @@ const projectSchema = new mongoose.Schema({
     },
     git_repo_name:{
         type: String
+    },
+    project_class:{
+        type: String
     }
 },{timestamps: true})
 
