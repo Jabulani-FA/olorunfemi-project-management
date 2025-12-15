@@ -1,0 +1,1 @@
+A project management file used to update all my projects as I complete each project, to keep track of how many projects has been copleted by me in a particular time. And in the future or on the frontend can be used to project for improvement
